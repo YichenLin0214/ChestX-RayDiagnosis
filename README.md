@@ -1,7 +1,8 @@
 # Autonomous Chest X-Ray Diagnosis
-Predicting Lung Disease from X-Ray Images Using Convolutional Neural Networks
+*Predicting Lung Disease from X-Ray Images Using Convolutional Neural Networks
 
-Website ​Kaggle.com ​offers a 42-gigabyte data set from The National Institutes of Health that contains 112,120 PNG files of chest x-rays from over 30,805 patients [4]. It also contains a CSV file that identifies the medical condition found in each x-ray. The labels are expected to be over 90% accurate and suitable for weakly-supervised learning. The X-rays have one or more findings (diagnoses)
+## Dataset
+*Website ​Kaggle.com ​offers a 42-gigabyte data set from The National Institutes of Health that contains 112,120 PNG files of chest x-rays from over 30,805 patients. It also contains a CSV file that identifies the medical condition found in each x-ray. The labels are expected to be over 90% accurate and suitable for weakly-supervised learning. The X-rays have one or more findings (diagnoses) for each images.
 
 ## References:
 * X-ray (radiography) - Chest. Radiological Society of North America- RSNA- American College of Radiology -https://www.radiologyinfo.org/en/info.cfm?pg=chestrad
